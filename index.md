@@ -32,16 +32,14 @@ Below are my entries, feel free to hop around 🤎
 - Mar. 20 – Mar. 26:
   - [Midterm Presentation](./pages/week8-midterm.html)
 - Mar. 27 – Apr. 2:
-  - [upcoming](index.html)
+  - [Cleaning Up Code](index.html)
 - Apr. 3 – Apr. 9:
-  - [upcoming](index.html)
+  - [Finish Services Structure](index.html)
 - Apr. 10 – Apr. 16:
-  - [upcoming](index.html)
+  - [Finish About Us Strcuture](index.html)
 - Apr. 17 – Apr. 23:
-  - [upcoming](index.html)
+  - [Finish Contact Strcuture](index.html)
 - Apr. 24 – Apr. 30:
-  - [upcoming](index.html)
-- May. 1 – May. 7:
-  - [upcoming](index.html)
-- Final Project - May 8:
-  - [upcoming](index.html)
+  - [Gathering Content](index.html)
+- May. 1:
+  - [Final Presentation](index.html)
